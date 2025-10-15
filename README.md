@@ -1,7 +1,5 @@
 # Coimbatore-city-traffic-data-analysis
 
-# Coimbatore City Traffic Data Analysis
-
 ## Overview
 This project focuses on analyzing traffic data from Coimbatore city to understand congestion patterns, accident hotspots, and vehicle trends. The analysis is done using SQL for querying and Power BI for visualization, based on multiple CSV datasets.
 
